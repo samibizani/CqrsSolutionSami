@@ -1,6 +1,6 @@
 # CQRS Solution Sami - .NET Core Cartesian Plane
 
-CQRS Solution Sami, built to demonstrate the implememtation of the SQRS (Command Query Responsibility Segregation) in .NetCore 6 via MediatR to calculate Distance, Average Speed and intersection of segment line through third party library : GeometRi and JsonFlatFileDataStore.
+CQRS Solution Sami, built to demonstrate the implememtation of the CQRS (Command Query Responsibility Segregation) in .NetCore 6 via MediatR to calculate Distance, Average Speed and intersection of segment line through third party library : GeometRi and JsonFlatFileDataStore.
 
 # Technologies
 
